@@ -1,4 +1,7 @@
-registry
-sunside/simple-nuget-server
-gitlab/gitlab-ce
-jenkins/jenkins:lts
+library/registry:3.0.0
+sunside/simple-nuget-server:0.5
+gitlab/gitlab-ce:18.1.1-ce.0
+jenkins/jenkins:2.516
+library/redis:8.2-m01-bookworm
+library/redis:6.2.18
+library/mysql:9.3.0
