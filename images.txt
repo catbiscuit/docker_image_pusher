@@ -3,6 +3,9 @@ sunside/simple-nuget-server:0.5
 gitlab/gitlab-ce:18.1.1-ce.0
 gitlab/gitlab-ce:15.7.0-ce.0
 jenkins/jenkins:2.516
+jenkins/jenkins:2.504.3
+jenkins/jenkins:2.461
+jenkins/jenkins:2.440.1-lts-jdk17
 library/redis:8.2-m01-bookworm
 library/redis:6.2.18
 library/mysql:9.3.0
