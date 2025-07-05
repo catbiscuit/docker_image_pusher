@@ -9,3 +9,9 @@ jenkins/jenkins:2.440.1-lts-jdk17
 library/redis:8.2-m01-bookworm
 library/redis:6.2.18
 library/mysql:9.3.0
+mcr.microsoft.com/dotnet/core/sdk:2.2
+mcr.microsoft.com/dotnet/core/aspnet:2.2
+mcr.microsoft.com/dotnet/core/sdk:3.1
+mcr.microsoft.com/dotnet/core/aspnet:3.1
+mcr.microsoft.com/dotnet/core/sdk:8.0
+mcr.microsoft.com/dotnet/core/aspnet:8.0
