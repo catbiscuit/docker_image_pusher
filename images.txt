@@ -1,14 +1,33 @@
-library/registry:3.0.0
+# Apr 4, 2025 at 2:38 am
+registry:3.0.0
+
+# Jun 2, 2016 at 7:55 am
 sunside/simple-nuget-server:0.5
+
+# Jun 25, 2025 at 4:54 pm
 gitlab/gitlab-ce:18.1.1-ce.0
+# Dec 22, 2022 at 9:15 pm
 gitlab/gitlab-ce:15.7.0-ce.0
+
+# Jun 26, 2025 at 5:11 pm
 jenkins/jenkins:2.516
+# Jun 25, 2025 at 10:35 pm
 jenkins/jenkins:2.504.3
+# Jun 4, 2024 at 10:30 pm
 jenkins/jenkins:2.461
+# Feb 21, 2024 at 6:11 pm
 jenkins/jenkins:2.440.1-lts-jdk17
-library/redis:8.2-m01-bookworm
-library/redis:6.2.18
-library/mysql:9.3.0
+
+# Jul 2, 2025 at 3:06 am
+redis:8.2-m01-bookworm
+# Jul 2, 2025 at 3:04 am
+redis:6.2.18
+
+# Jul 2, 2025 at 5:02 pm
+mysql:9.3.0
+# Apr 20, 2022 at 6:23 pm
+mysql:8.0.28
+
 mcr.microsoft.com/dotnet/core/sdk:2.2
 mcr.microsoft.com/dotnet/core/aspnet:2.2
 mcr.microsoft.com/dotnet/core/sdk:3.1
